@@ -1,0 +1,4 @@
+[submodule "CLog"]
+	path = CLog
+	url = https://github.com/weizhen1883/CLog.git
+	branch = main
